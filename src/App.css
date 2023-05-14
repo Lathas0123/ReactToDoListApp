@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.App {    
+  text-align: center;    
+}    
+.navheader{    
+  margin-top: 10px;    
+  color :black !important;    
+  background-color: #b3beca!important    
+} 
